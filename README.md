@@ -21,8 +21,8 @@ A simple console calculator built with C# and .NET.
 
 ```bash
 dotnet run --project Calculator
+```
+
 ## Screenshot
 
 ![Calculator Demo](images/calculator-demo.png)
-
-
